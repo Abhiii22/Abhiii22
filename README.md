@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiii22&label=Profile%20views&color=0e75b6&style=flat" alt="abhiii22" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning.**
+- 🌱 I’m currently learning **Full Stack Web Development.**
 
 - 📫 How to reach me **rajputabhyuday23258958@gmail.com**
 
